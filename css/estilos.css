@@ -1,7 +1,21 @@
 body {
   font-family: Cascadia Code;
   font-size: 20px;
-  color: blueviolet;
+  color: rgb(12, 0, 22);
   text-align: center;
+  padding: 0;
+  margin: 0;
   justify-content: center;
+}
+
+#container {
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+}
+
+#container h1 {
+  font-size: 25px;
 }
